@@ -1,0 +1,3 @@
+[submodule "themes/app-showcase-hugo-theme"]
+	path = themes/app-showcase-hugo-theme
+	url = git@github.com:Fairese/app-showcase-hugo-theme.git

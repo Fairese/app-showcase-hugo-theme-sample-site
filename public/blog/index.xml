@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Fairese App Showcase Theme</title>
+    <link>http://localhost:1313/blog/</link>
+    <description>Recent content in Blogs on Fairese App Showcase Theme</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>App Store Optimization (ASO): The Missing Piece of Your Launch</title>
+      <link>http://localhost:1313/blog/post-11/</link>
+      <pubDate>Sat, 15 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/post-11/</guid>
+      <description>Great screenshots and a compelling description can dramatically increase your downloads. Learn the fundamentals of ASO to make your app stand out.</description>
+    </item>
+    <item>
+      <title>Core Data in 2025: Best Practices for Modern Apps</title>
+      <link>http://localhost:1313/blog/post-10/</link>
+      <pubDate>Sun, 05 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/post-10/</guid>
+      <description>Core Data is more powerful than ever, but it has its complexities. We share our best practices for managing data persistence in modern iOS apps.</description>
+    </item>
+    <item>
+      <title>Test-Driven Development in Swift: A Practical Approach</title>
+      <link>http://localhost:1313/blog/post-9/</link>
+      <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/post-9/</guid>
+      <description>Writing tests first can feel counterintuitive, but it leads to more robust and maintainable code. Let&amp;rsquo;s explore how to adopt TDD in your Swift projects.</description>
+    </item>
+    <item>
+      <title>Marketing Your Indie App: A Developer&#39;s Guide</title>
+      <link>http://localhost:1313/blog/post-8/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/post-8/</guid>
+      <description>You&amp;rsquo;ve built a great app, but how do you get people to find it? We explore practical marketing strategies for developers on a budget.</description>
+    </item>
+    <item>
+      <title>Mastering API Integration in Swift</title>
+      <link>http://localhost:1313/blog/post-7/</link>
+      <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/post-7/</guid>
+      <description>From simple REST calls to complex GraphQL queries, we break down modern techniques for robust and efficient API communication in your iOS apps.</description>
+    </item>
+    <item>
+      <title>SwiftUI vs. UIKit: A 2025 Perspective</title>
+      <link>http://localhost:1313/blog/post-6/</link>
+      <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/post-6/</guid>
+      <description>The debate is ongoing, but the landscape has changed. When should you choose SwiftUI, and where does UIKit still shine?</description>
+    </item>
+    <item>
+      <title>Building a Privacy-First iOS App in 2025</title>
+      <link>http://localhost:1313/blog/post-5/</link>
+      <pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/post-5/</guid>
+      <description>Privacy isn&amp;rsquo;t a feature, it&amp;rsquo;s a foundation. We discuss the technical and ethical considerations for building apps that respect user data.</description>
+    </item>
+    <item>
+      <title>The Art of the Side Project: From Idea to App Store</title>
+      <link>http://localhost:1313/blog/post-4/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/post-4/</guid>
+      <description>Side projects are more than just code; they&amp;rsquo;re a journey of learning, passion, and perseverance. Here&amp;rsquo;s how to take your idea from a napkin sketch to a real app.</description>
+    </item>
+    <item>
+      <title>Why Performance Matters in Modern iOS Apps</title>
+      <link>http://localhost:1313/blog/post-3/</link>
+      <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/post-3/</guid>
+      <description>Your app can be beautiful, but if it&amp;rsquo;s slow, users will abandon it immediately. Here’s how we optimize for real-world speed.</description>
+    </item>
+    <item>
+      <title>Designing a Fast and Minimalist App Showcase Website</title>
+      <link>http://localhost:1313/blog/post-2/</link>
+      <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/post-2/</guid>
+      <description>A lightweight Hugo theme optimized for indie developers. Built with Tailwind, dark mode, SEO, and beautiful feature sections.</description>
+    </item>
+    <item>
+      <title>What&#39;s New in Swift 6.0?</title>
+      <link>http://localhost:1313/blog/post-12/</link>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/post-12/</guid>
+      <description>The next major version of Swift is here, bringing exciting new features for concurrency, generics, and more. Here&amp;rsquo;s a look at what we&amp;rsquo;re most excited about.</description>
+    </item>
+    <item>
+      <title>Introducing Mignori: A Native iOS Booru Browser</title>
+      <link>http://localhost:1313/blog/post-1/</link>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/post-1/</guid>
+      <description>A deep dive into why Mignori exists and the philosophy behind building a first-class native booru browser for iOS.</description>
+    </item>
+  </channel>
+</rss>
