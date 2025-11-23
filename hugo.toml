@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://appshowcasesample.fairese.app/'
 languageCode = 'en-us'
 title = 'Fairese App Showcase Theme'
 theme = "app-showcase-hugo-theme"
